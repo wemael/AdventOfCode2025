@@ -1,4 +1,4 @@
-"""Advent of Code 2025 - Day 1, Part 1"""
+"""Advent of Code 2025 - Day 1, Part 2"""
 
 
 def solve(input_data: str) -> int:
